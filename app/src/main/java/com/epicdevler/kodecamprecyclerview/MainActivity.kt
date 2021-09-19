@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
 //        recyclerView.layoutManager = LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)
 
 //        CHANGING RECYCLERVIEW LAYOUT MANAGER TYPE TO GridLayoutManager
-        recyclerView.layoutManager = GridLayoutManager(this, 2, GridLayoutManager.VERTICAL, false)
+        recyclerView.layoutManager = GridLayoutManager(this, 3)
 
 //        Set recyclerView Adapter
         recyclerView.adapter = MovieCyclerAdapter(this, moviesData)

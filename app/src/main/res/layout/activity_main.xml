@@ -12,6 +12,7 @@
         tools:listitem="@layout/movie_list_layout_item"
         android:layout_height="0dp"
         android:scrollbars="none"
+        android:padding="5dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"

@@ -43,7 +43,6 @@ class MovieCyclerAdapter(private var context: Context, private var movieList: Li
             context.getString(movieListItem.movieDescription)
         )
 
-
     }
 
     override fun getItemCount(): Int {
