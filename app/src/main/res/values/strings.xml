@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">KodeCamp RecyclerView</string>
+    <string name="titleText">Title: %s</string>
+    <string name="releaseText">Release Date: %s</string>
+    <string name="detailsText">Details/Description: %s</string>
+
+
+    <string name="noTimeToDieTitle">No Time to Die</string>
+    <string name="noTimeToDieReleaseDate">2021</string>
+    <string name="noTimeToDieDetails">Recruited to rescue a kidnapped scientist, globe-trotting spy James Bond finds himself hot on the trail of a mysterious villain, who\'s armed with a dangerous new technology.</string>
+
+    <string name="cruellaTitle">Cruella</string>
+    <string name="cruellaReleaseDate">28 May 2021</string>
+    <string name="cruellaDetails">Estella is a young and clever grifter who\'s determined to make a name for herself in the fashion world. She soon meets a pair of thieves who appreciate her appetite for mischief, and together they build a life for themselves on the streets of London.
+</string>
+
+
+    <string name="blackWidowTitle">Black Widow</string>
+    <string name="blackWidowReleaseDate">9 July 2021</string>
+    <string name="blackWidowDetails">Natasha Romanoff, a former KGB spy, is shocked to find out that her ex handler, General Dreykov, is still alive. While evading capture by Taskmaster, she is forced to confront her dark past.</string>
+
+    <string name="rayaAndDragonTitle">Raya and the Last Dragon</string>
+    <string name="rayaAndDragonReleaseDate">5 March 2021</string>
+    <string name="rayaAndDragonDetails">Raya, a warrior, sets out to track down Sisu, a dragon, who transferred all her powers into a magical gem which is now scattered all over the kingdom of Kumandra, dividing its people.</string>
+
+    <string name="kingsMenTitle">Kingsman: The Golden Circle</string>
+    <string name="kingsMenReleaseDate">22 September 2018</string>
+    <string name="kingsMenDetails">After the enemies blow up their headquarters, the surviving agents of Kingsman band together with their American counterpart to take down a ruthless drug cartel.
+</string>
+
+    <string name="oceansTitle">Oceans 8</string>
+    <string name="oceansReleaseDate">22 June 2018</string>
+    <string name="oceansDetails">Debbie Ocean is released from jail after serving a prison sentence. She assembles a special crew of seven women to steal a diamond necklace, worth 150 million dollars, from the Met Gala.</string>
+
+    <string name="lucaTitle">Luca</string>
+    <string name="lucaDate">18 June 2021</string>
+    <string name="lucaDetails">Set in a beautiful seaside town on the Italian Riviera, the original animated feature is a coming-of-age story about one young boy experiencing an unforgettable summer filled with gelato, pasta and endless scooter rides. Luca shares these adventures with his newfound best friend, but all the fun is threatened by a deeply held secret: he is a sea monster from another world just below the water\'s surface.</string>
+
+
+    <string name="infiniteTitle">Infinite</string>
+    <string name="infiniteDate">10 June 2021</string>
+    <string name="infiniteDetails">Haunted by memories of places he\'s never visited, a man joins forces with a group of reborn warriors to stop a madman from destroying the endless cycle of life and reincarnation.</string>
+
+    <string name="f9Title">Fast and Furious 9</string>
+    <string name="f9Date">25 June 2021</string>
+    <string name="f9Details">Dom Toretto is living the quiet life off the grid with Letty and his son, but they know that danger always lurks just over the peaceful horizon. This time, that threat forces Dom to confront the sins of his past to save those he loves most. His crew soon comes together to stop a world-shattering plot by the most skilled assassin and high-performance driver they\'ve ever encountered — Dom's forsaken brother.
+</string>
+
+</resources>
